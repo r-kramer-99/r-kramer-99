@@ -9,3 +9,8 @@ Ranked Emmy Noms List
 1. _Hacks_
 2. _Widow's Bay_
 3. _The Pitt_
+
+_Italic_
+__Bold__
+~~Strikethrough~~
+
